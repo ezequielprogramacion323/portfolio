@@ -1,0 +1,26 @@
+body{
+background-color: #eeeeee;
+font-family: 'Montserrat', sans-serif;
+margin-left: 50px;
+
+}
+
+nav{
+    color:  #4B4B4B !important;
+    margin: auto;
+}
+
+#contacto textarea, #contacto input{
+background-color: #eeeeee;
+border: none;
+border-bottom:  1px solid black;
+border-radius: 0px;
+}
+
+#contacto button{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    border-radius:  0px;
+
+}
